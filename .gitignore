@@ -1,0 +1,15 @@
+# build artifacts
+build/
+*.mod
+*.o
+*.obj
+
+# compiled checkers and demos
+check
+check.exe
+demo
+demo.exe
+*.exe
+
+# editor / tooling
+.kiro/

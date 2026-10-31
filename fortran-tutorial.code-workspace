@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "fortran-tutorial (code)",
+			"path": "."
+		},
+		{
+			"name": "ObsidianVault",
+			"path": "../../ObsidianVault"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.f90": "fortran"
+		}
+	}
+}
